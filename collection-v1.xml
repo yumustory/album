@@ -3,10 +3,10 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>雨木 song collections</title>
+    <title>雨木歌詞合集1</title>
     <link>https://github.com/yumustory/album</link>
     <language>zh-tw</language>
-    <description>My music collection</description>
+    <description>My lyrics with suno rhythm collection vol.1</description>
     <itunes:author>ofyumu</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -88,46 +88,6 @@
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/10-the-last-time-traveler.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-10-the-last-time-traveler</guid>
       <itunes:episode>10</itunes:episode>
-    </item>
-    <item>
-      <title>11-寂寞年代(the Age of Loneliness)</title>
-      <description>一半有愛一半無奈</description>
-      <pubDate>Sat, 17 Oct 2026 09:48 +0800</pubDate>
-      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/11-the-age-of-loneliness-v6.mp3" type="audio/mpeg" />
-      <guid isPermaLink="false">yumustory-album-11-the-age-of-loneliness-v6</guid>
-      <itunes:episode>11</itunes:episode>
-    </item>
-    <item>
-      <title>12-總匯三明治(Club-Sadnwish)</title>
-      <description>好傻好傻好傻原來是秋天的童話</description>
-      <pubDate>Sat, 17 Oct 2026 09:50 +0800</pubDate>
-      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/12-club-sadnwish-v6.mp3" type="audio/mpeg" />
-      <guid isPermaLink="false">yumustory-album-12-club-sadnwish-v6</guid>
-      <itunes:episode>12</itunes:episode>
-    </item>
-    <item>
-      <title>17-我的名字(My Name)</title>
-      <description>真正的水手不會忘記說完故事</description>
-      <pubDate>Sat, 17 Oct 2026 09:52 +0800</pubDate>
-      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/17-my-name-v6.mp3" type="audio/mpeg" />
-      <guid isPermaLink="false">yumustory-album-17-my-name-v6</guid>
-      <itunes:episode>17</itunes:episode>
-    </item>
-    <item>
-      <title>18-愛聽劉德華的女孩(the Girl with the Song)</title>
-      <description>漂流在永夜忘了橙黃橘綠</description>
-      <pubDate>Sat, 17 Oct 2026 09:54 +0800</pubDate>
-      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/18-the-girl-with-the-song-v6.mp3" type="audio/mpeg" />
-      <guid isPermaLink="false">yumustory-album-18-the-girl-with-the-song-v6</guid>
-      <itunes:episode>18</itunes:episode>
-    </item>
-    <item>
-      <title>19-歐蘭朵(Orlando)</title>
-      <description>故事悄悄開始</description>
-      <pubDate>Sat, 17 Oct 2026 09:56 +0800</pubDate>
-      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/19-orlando-v6.mp3" type="audio/mpeg" />
-      <guid isPermaLink="false">yumustory-album-19-orlando-v6.mp3</guid>
-      <itunes:episode>19</itunes:episode>
     </item>
   </channel>
 </rss>
