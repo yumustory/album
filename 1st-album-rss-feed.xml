@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>雨木 1st album</title>
+    <link>https://github.com/yumustory/album</link>
+    <language>zh-tw</language>
+    <description>My music album collection</description>
+    <itunes:author>yumustory</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- Track 01 -->
+    <item>
+      <title>01-還沒完全好(Pas Encore)</title>
+      <description>01 - Pas Encore</description>
+      <pubDate>Sat, 17 Oct 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/01-pas-encore.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-01-pas-encore</guid>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <!-- Track 02 -->
+    <item>
+      <title>02-還是過敏(the Prickle)</title>
+      <description>02 - The Prickle</description>
+      <pubDate>Sat, 17 Oct 2026 09:55:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/02-the-prickle.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-02-the-prickle</guid>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <!-- Track 03 -->
+    <item>
+      <title>03-情事(Love Affair)</title>
+      <description>03 - Love Affair</description>
+      <pubDate>Sat, 17 Oct 2026 09:50:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/03-love-affair.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-03-love-affair</guid>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <!-- Track 04 -->
+    <item>
+      <title>04-未曾來過(Never Been Here)</title>
+      <description>04 - Never Been Here</description>
+      <pubDate>Sat, 17 Oct 2026 09:45:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/04-never-been-here.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-04-never-been-here</guid>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <!-- Track 05 -->
+    <item>
+      <title>05-偷來的寂寞(Solitarity By Stealing)</title>
+      <description>05 - Solitarity By Stealing</description>
+      <pubDate>Sat, 17 Oct 2026 09:40:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/05-solitarity-by-stealing.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-05-solitarity-by-stealing</guid>
+      <itunes:episode>5</itunes:episode>
+    </item>
+
+    <!-- Track 06 -->
+    <item>
+      <title>06-潮濕的星期天(Tearing Sunday)</title>
+      <description>06 - Tearing Sunday</description>
+      <pubDate>Sat, 17 Oct 2026 09:35:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/06-tearing-sunday.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-06-tearing-sunday</guid>
+      <itunes:episode>6</itunes:episode>
+    </item>
+
+    <!-- Track 07 -->
+    <item>
+      <title>07-冷湯(Soupe Froide)</title>
+      <description>07 - Soupe Froide</description>
+      <pubDate>Sat, 17 Oct 2026 09:30:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/07-soupe-froide.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-07-soupe-froide</guid>
+      <itunes:episode>7</itunes:episode>
+    </item>
+
+    <!-- Track 08 -->
+    <item>
+      <title>08-最後的夏天(Last Summer)</title>
+      <description>08 - Last Summer</description>
+      <pubDate>Sat, 17 Oct 2026 09:25:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/08-last-summer.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-08-last-summer</guid>
+      <itunes:episode>8</itunes:episode>
+    </item>
+
+    <!-- Track 09 -->
+    <item>
+      <title>09-懂了也老了(Getting Older Knowing Better)</title>
+      <description>09 - Getting Older Knowing Better</description>
+      <pubDate>Sat, 17 Oct 2026 09:20:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/09-getting-older-knowing-better.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-09-getting-older-knowing-better</guid>
+      <itunes:episode>9</itunes:episode>
+    </item>
+
+    <!-- Track 10 -->
+    <item>
+      <title>10-最後的超時空旅行者(the Last Time Traveler)</title>
+      <description>10 - The Last Time Traveler</description>
+      <pubDate>Sat, 17 Oct 2026 09:15:00 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/10-the-last-time-traveler.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-10-the-last-time-traveler</guid>
+      <itunes:episode>10</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
