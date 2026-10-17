@@ -3,74 +3,60 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>雨木 1st album</title>
+    <title>雨木 song collections</title>
     <link>https://github.com/yumustory/album</link>
     <language>zh-tw</language>
-    <description>My music album collection</description>
-    <itunes:author>yumustory</itunes:author>
+    <description>My music collection</description>
+    <itunes:author>ofyumu</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-
-    <!-- Track 01 -->
     <item>
       <title>01-還沒完全好(Pas Encore)</title>
       <description>證明的過程比證明更內耗</description>
-      <pubDate>Sat, 17 Oct 2026 10:00:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/01-pas-encore.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-01-pas-encore</guid>
       <itunes:episode>1</itunes:episode>
     </item>
-
-    <!-- Track 02 -->
     <item>
       <title>02-還是過敏(the Prickle)</title>
       <description>還是有一萬種意難平</description>
-      <pubDate>Sat, 17 Oct 2026 09:55:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:05:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/02-the-prickle.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-02-the-prickle</guid>
       <itunes:episode>2</itunes:episode>
     </item>
-
-    <!-- Track 03 -->
     <item>
       <title>03-情事(Love Affair)</title>
       <description>醉在花開碎在雨落</description>
-      <pubDate>Sat, 17 Oct 2026 09:50:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:10:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/03-love-affair.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-03-love-affair</guid>
       <itunes:episode>3</itunes:episode>
     </item>
-
-    <!-- Track 04 -->
     <item>
       <title>04-未曾來過(Never Been Here)</title>
       <description>此心成追憶你也不知</description>
-      <pubDate>Sat, 17 Oct 2026 09:45:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:15:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/04-never-been-here.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-04-never-been-here</guid>
       <itunes:episode>4</itunes:episode>
     </item>
-
-    <!-- Track 05 -->
     <item>
       <title>05-偷來的寂寞(Solitarity By Stealing)</title>
       <description>美麗的謊不過是殘夢一場</description>
-      <pubDate>Sat, 17 Oct 2026 09:40:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:20:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/05-solitarity-by-stealing.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-05-solitarity-by-stealing</guid>
       <itunes:episode>5</itunes:episode>
     </item>
-
-    <!-- Track 06 -->
     <item>
       <title>06-潮濕的星期天(Tearing Sunday)</title>
       <description>一千零一次道別</description>
-      <pubDate>Sat, 17 Oct 2026 09:35:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:25:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/06-tearing-sunday.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-06-tearing-sunday</guid>
       <itunes:episode>6</itunes:episode>
     </item>
-
-    <!-- Track 07 -->
     <item>
       <title>07-冷湯(Soupe Froide)</title>
       <description>外面有鬼在那邊探頭望</description>
@@ -79,36 +65,69 @@
       <guid isPermaLink="false">yumustory-album-07-soupe-froide</guid>
       <itunes:episode>7</itunes:episode>
     </item>
-
-    <!-- Track 08 -->
     <item>
       <title>08-最後的夏天(Last Summer)</title>
       <description>何必抱歉負了誰</description>
-      <pubDate>Sat, 17 Oct 2026 09:25:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:35:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/08-last-summer.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-08-last-summer</guid>
       <itunes:episode>8</itunes:episode>
     </item>
-
-    <!-- Track 09 -->
     <item>
       <title>09-懂了也老了(Getting Older Knowing Better)</title>
       <description>都是隨口說說的</description>
-      <pubDate>Sat, 17 Oct 2026 09:20:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:40:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/09-getting-older-knowing-better.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-09-getting-older-knowing-better</guid>
       <itunes:episode>9</itunes:episode>
     </item>
-
-    <!-- Track 10 -->
     <item>
       <title>10-最後的超時空旅行者(the Last Time Traveler)</title>
       <description>認真決定今天先活著</description>
-      <pubDate>Sat, 17 Oct 2026 09:15:00 +0800</pubDate>
+      <pubDate>Sat, 17 Oct 2026 09:45:00 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/10-the-last-time-traveler.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-10-the-last-time-traveler</guid>
       <itunes:episode>10</itunes:episode>
     </item>
-
+    <item>
+      <title>11-寂寞年代(the Age of Loneliness)</title>
+      <description>一半有愛一半無奈</description>
+      <pubDate>Sat, 17 Oct 2026 09:48 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/11-the-age-of-loneliness-v6.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-11-the-age-of-loneliness-v6</guid>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>12-總匯三明治(Club-Sadnwish)</title>
+      <description>好傻好傻好傻原來是秋天的童話</description>
+      <pubDate>Sat, 17 Oct 2026 09:50 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/12-club-sadnwish-v6.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-12-club-sadnwish-v6</guid>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>17-我的名字(My Name)</title>
+      <description>真正的水手不會忘記說完故事</description>
+      <pubDate>Sat, 17 Oct 2026 09:52 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/17-my-name-v6.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-17-my-name-v6</guid>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>18-愛聽劉德華的女孩(the Girl with the Song)</title>
+      <description>漂流在永夜忘了橙黃橘綠</description>
+      <pubDate>Sat, 17 Oct 2026 09:54 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/18-the-girl-with-the-song-v6.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-18-the-girl-with-the-song-v6</guid>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>19-歐蘭朵(Orlando)</title>
+      <description>故事悄悄開始</description>
+      <pubDate>Sat, 17 Oct 2026 09:56 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/19-orlando-v6.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-19-orlando-v6.mp3</guid>
+      <itunes:episode>19</itunes:episode>
+    </item>
   </channel>
 </rss>
