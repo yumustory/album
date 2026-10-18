@@ -34,12 +34,20 @@
       <itunes:episode>17</itunes:episode>
     </item>
     <item>
+      <title>15-夢迴渡口(the Dream of)</title>
+      <description>奈何魚涼仍聽雨</description>
+      <pubDate>Sat, 17 Oct 2026 09:53 +0800</pubDate>
+      <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/15-the-dream-of.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">yumustory-album-15-the-dream-of</guid>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
       <title>13-深紫色(Deep Purple)</title>
-      <description>一半有愛一半無奈</description>
+      <description>永遠不敢擦拭的幸福</description>
       <pubDate>Sat, 17 Oct 2026 09:52 +0800</pubDate>
       <enclosure url="https://github.com/yumustory/album/raw/refs/heads/main/13-deep-purple.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">yumustory-album-13-deep-purple</guid>
-      <itunes:episode>11</itunes:episode>
+      <itunes:episode>13</itunes:episode>
     </item>
     <item>
       <title>12-總匯三明治(Club Sadnwish)</title>
